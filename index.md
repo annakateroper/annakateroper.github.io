@@ -11,4 +11,4 @@ Welcome to my website! I'm a political science and economics major in COMP 110.
 
 ## Comp 110 is hard.
 
-This is basic paragraph text.
+I don't know what to put here.
